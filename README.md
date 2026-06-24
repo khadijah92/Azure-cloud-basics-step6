@@ -1,4 +1,4 @@
-# Azure-cloud-basics-step6
+Azure-cloud-basics-step6
 Azure Free tier setup for Cloud course
 Project Overview
 This project demonstrates setup of Microsoft Azure Free Tier account with cost management, portal navigation, and security best practices for cloud beginners.
